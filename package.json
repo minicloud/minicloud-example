@@ -1,0 +1,24 @@
+{
+  "name": "minicloud-examples",
+  "version": "1.0.0",
+  "description": "minicloud examples",
+  "main": "koa-integrate-minicloud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minicloud/minicloud-examples.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minicloud/minicloud-examples/issues"
+  },
+  "homepage": "https://github.com/minicloud/minicloud-examples#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "koa": "^1.0.0",
+    "minicloud": "^0.5.0"
+  }
+}
