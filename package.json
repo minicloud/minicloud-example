@@ -19,6 +19,6 @@
   "dependencies": {
     "co": "^4.6.0",
     "koa": "^1.0.0",
-    "minicloud": "^0.5.0"
+    "minicloud": "^0.5.1"
   }
 }
