@@ -5,10 +5,9 @@ koa app integrate with minicloud+sqlite
 ```
 $ git clone http://github.com/minicloud/koa-example
 $ cd koa-example
-$ npm install  
-$ node --harmony index.js
-or
-$ iojs index.js
+$ npm install 
+$ node ./node_modules/minicloud/install.js 
+$ node index.js
 
 ```
 ## Test case

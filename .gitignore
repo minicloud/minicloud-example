@@ -1,4 +1,3 @@
 /node_modules
-/block
-/cache
-/data
+/upload_files
+/minicloud.db
