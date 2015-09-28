@@ -1,5 +1,5 @@
 var app = require('koa')()
-
+//your app business
 require('co').wrap(function*() {
     //init minicloud
     //db is sqlite(./minicloud.db)
