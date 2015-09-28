@@ -1,26 +1,26 @@
 {
-  "name": "minicloud-koa-example",
+  "name": "minicloud-example",
   "version": "1.0.0",
-  "description": "minicloud koa example",
+  "description": "minicloud  example",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/minicloud/koa-example.git"
+    "url": "git+https://github.com/minicloud/minicloud-example.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/minicloud/koa-example/issues"
+    "url": "https://github.com/minicloud/minicloud-example/issues"
   },
-  "homepage": "https://github.com/minicloud/koa-example#readme",
+  "homepage": "https://github.com/minicloud/minicloud-example#readme",
   "dependencies": {
     "cli": "^0.10.0",
     "co": "^4.6.0",
     "koa": "^1.0.0",
-    "minicloud": "^0.1.2",
+    "minicloud": "^0.1.3",
     "pg": "^4.4.2",
     "pg-hstore": "^2.3.2",
     "pg-native": "^1.9.0",

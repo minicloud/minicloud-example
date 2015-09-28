@@ -1,13 +1,13 @@
-# koa-example
+# minicloud-example
 koa app integrate with minicloud+sqlite/mysql/mssql/postgres
 
 ## Clone
 ```
-$ git clone http://github.com/minicloud/koa-example
+$ git clone http://github.com/minicloud/minicloud-example
 ```
 ## Installation package
 ```
-$ cd koa-example
+$ cd minicloud-example
 $ npm install 
 china user中国大陆用户建议下面方式安装依赖(cnpm 详情见:http://npm.taobao.org/)
 $ cnpm install
