@@ -6,6 +6,8 @@ koa app integrate with minicloud+sqlite
 $ git clone http://github.com/minicloud/koa-example
 $ cd koa-example
 $ npm install 
+china user中国大陆用户建议下面方式安装依赖(cnpm 详情见:http://npm.taobao.org/)
+$ cnpm install
 $ node ./node_modules/minicloud/install.js 
 $ node index.js
 
