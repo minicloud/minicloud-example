@@ -1,18 +1,20 @@
 # koa-example
 koa app integrate with minicloud+sqlite/mysql/mssql/postgres
 
-## Run Server
+## Clone
 ```
 $ git clone http://github.com/minicloud/koa-example
 ```
 ## Installation package
+```
 $ cd koa-example
 $ npm install 
 china user中国大陆用户建议下面方式安装依赖(cnpm 详情见:http://npm.taobao.org/)
 $ cnpm install
+```
 
 ## Initialization database
-
+```
 //default sqlite
 
 $ node ./node_modules/minicloud/install.js 
@@ -28,9 +30,9 @@ $ node ./node_modules/minicloud/install.js --config=./config-mssql.json
 //postgres
 
 $ node ./node_modules/minicloud/install.js --config=./config-postgres.json
-
+```
 ## Run example
-
+```
 //default sqlite
 
 $ node index.js
