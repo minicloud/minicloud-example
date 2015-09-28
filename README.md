@@ -56,7 +56,7 @@ $ node index.js --config=./config-postgres.json
 
 curl -X POST http://127.0.0.1:8030/api/v1/members/register \
     --header "Content-Type: application/json" \
-    --data "{\"name\":\"zhangsan\",\"nick\":\"xiaozhang\",\"password\":\"8k9v6n\",\"email\":\"zhangsan@minicloud.io\"}"
+    --data "{\"name\":\"zhangsan\",\"nick\":\"xiaozhang\",\"password\":\"8k9v6n\",\"email\":\"zhangsan@minicloudjs.com\"}"
 
 //login 
 
