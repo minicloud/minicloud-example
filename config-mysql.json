@@ -1,0 +1,25 @@
+{
+    "port": 8030,
+    "logs": "./logs",
+    "database": {
+        "username": "root",
+        "password": "123456",
+        "database": "minicloud_test",
+        "table_prefix": "minicloud_",
+        "pool": {
+            "max_connections": 5,
+            "max_idle_time": 3000
+        },
+        "host": "127.0.0.1",
+        "port":3306,
+        "dialect": "mysql"
+    },
+    "storage": {
+        "safe_code": "uBEEAcKM2D7sxpJD7QQEapsxiCmzPCyS",
+        "session_timeout": "24H",
+        "single_file_max_size": "1024M",
+        "path": ["./upload_files/a", "./upload_files/b", "./upload_files/c"],
+        "cache": "./upload_files/cache"
+    }
+}
+

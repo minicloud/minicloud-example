@@ -1,0 +1,16 @@
+{
+    "port": 8030,
+    "logs": "./logs",
+    "database": {
+        "storage": "./example.db",
+        "dialect": "sqlite"
+    },
+    "storage": {
+        "safe_code": "uBEEAcKM2D7sxpJD7QQEapsxiCmzPCyS",
+        "session_timeout": "24H",
+        "single_file_max_size": "1024M",
+        "path": ["./upload_files/a", "./upload_files/b", "./upload_files/c"],
+        "cache": "./upload_files/cache"
+    }
+}
+
